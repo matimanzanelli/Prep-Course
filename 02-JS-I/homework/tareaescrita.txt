@@ -1,0 +1,7 @@
+variables: es una forma de registrar un valor a utilizar.
+strings: es un texto encerrado entre comillas.
+funciones: es un código que agrupa statements para realizar una tarea específica.
+        * argunmentos: son los valores que se le piden a la función. 
+        *return: se encarga de informar los valores de los argumentos de la función.
+declaraciones if: se encarga de chequear si una condición es verdadera o falsa.
+valores booleanos: es el valor falso o verdadero.
