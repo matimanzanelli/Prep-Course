@@ -1,0 +1,8 @@
+for:
+
+&&: es un operador lógico que evalúa el valor de una o más expresiones. En este caso devuelve verdadero si se cumplen todas las expresiones. En caso de no hacerlo, devuelve falso.
+
+||: es un operador lógico que evalúa el valor de una o más expresiones. En este caso evalúa si una de las expresiones es verdadera o falsa y retorna ese valor.
+
+!: Es una expresión que se usa cuando se quiere devolver un valor contrario al expresado.
+ 
