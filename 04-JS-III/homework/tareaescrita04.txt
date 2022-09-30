@@ -1,0 +1,1 @@
+array: es una lista de datos encerrada entre dos corchete, que se utiliza para guardar información.
