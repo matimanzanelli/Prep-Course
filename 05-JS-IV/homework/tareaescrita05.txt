@@ -1,0 +1,5 @@
+objetos: son contenedores de datos de una sola cosa.
+propiedades: una propiedad es la clave de un objeto que contiene un valor determinado.
+métodos: son las funciones que se guardan en un objeto.
+bucle for in: se utiliza para recorrer cada clave del objeto y finaliza cuando todas hayan sido "registradas"
+notación de puntos vs notación de corchetes: tanto con los corchetes como los puntos, se utilizan para acceder a las propiedades de los objetos. La diferencia entre estos es que los puntos devuelve el valor literal.
