@@ -1,0 +1,2 @@
+Prototype: mecanismo para agregar metodos a los objetos y que se relacionen entre sí.
+constructors: sirve para relacionar objetos que comparten mismas propiedades y métodos.
